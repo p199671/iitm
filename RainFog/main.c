@@ -272,9 +272,9 @@ int main(int argc, const char *argv[]) {
 
 
 #ifdef WIN32
-  Sleep(30000);
+  Sleep(60000);
 #else
-  sleep(10);
+  sleep(60);
 #endif
 
   int i = 0;
