@@ -287,4 +287,4 @@ int main(int argc, const char *argv[]) {
 
 /** Uninitialize Livox-SDK. */
   Uninit();
-
+}
